@@ -2,3 +2,4 @@ C:\Users\sala\Desktop\GLSL_Lighting_wronganswer\Debug\TemplateProject.exe
 D:\Mis cosas\tareas\2024-2\Compu_grafica\WrongAnswer\GLSL_Lighting_wronganswer\Debug\TemplateProject.exe
 D:\Mis cosas\tareas\2024-2\Compu_grafica\OpenGL_PlayerTest\Debug\TemplateProject.exe
 C:\Users\Sala\Desktop\OpenGL_PlayerTest\Debug\TemplateProject.exe
+E:\Franco_Laura\Debug\TemplateProject.exe
