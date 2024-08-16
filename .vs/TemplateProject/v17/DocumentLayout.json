@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:InputManagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:InputManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\fragmentshader.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:fragmentshader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\vertexshader.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B0AA7AC-D20A-47E9-B7D8-82AFD63BDD92}|TemplateProject.vcxproj|solutionrelative:vertexshader.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T23:55:39.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T23:55:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputManagement.cpp",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.cpp",
+              "RelativeDocumentMoniker": "InputManagement.cpp",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.cpp",
+              "RelativeToolTip": "InputManagement.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T23:51:06.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputManagement.h",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.h",
+              "RelativeDocumentMoniker": "InputManagement.h",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\InputManagement.h",
+              "RelativeToolTip": "InputManagement.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T23:47:54.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arbol.h",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.h",
+              "RelativeDocumentMoniker": "Arbol.h",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.h",
+              "RelativeToolTip": "Arbol.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T23:29:01.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arbol.cpp",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.cpp",
+              "RelativeDocumentMoniker": "Arbol.cpp",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\Arbol.cpp",
+              "RelativeToolTip": "Arbol.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T23:29:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fragmentshader.txt",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\fragmentshader.txt",
+              "RelativeDocumentMoniker": "fragmentshader.txt",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\fragmentshader.txt",
+              "RelativeToolTip": "fragmentshader.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-09T23:29:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vertexshader.txt",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\vertexshader.txt",
+              "RelativeDocumentMoniker": "vertexshader.txt",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\vertexshader.txt",
+              "RelativeToolTip": "vertexshader.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-09T23:29:01.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Mis cosas\\tareas\\2024-2\\Compu_grafica\\OpenGL_PlayerTest\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T23:29:01.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
